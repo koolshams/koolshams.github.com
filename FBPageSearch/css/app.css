@@ -1,0 +1,170 @@
+body{
+    background: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica,Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #676763;
+    font-size: 14px;
+}
+header{
+    background: #fff;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px 0;
+}
+h1{
+    margin: 0;
+    padding-bottom: 10px;
+    font-family: "Trebuchet MS";
+    color: #333;
+    font-size: 32px;
+    font-weight:bold;
+}
+p{
+    margin: 0;
+    padding: 10px 0;
+}
+header h1,p{
+    padding: 0;
+}
+footer{
+    text-align: center;
+    padding: 20px 0;
+    color: #676763;
+    font-size: 12px;
+}
+aside{
+    width: 30%;
+    float: left;
+}
+.rs-content-area{
+    float: right;
+    width: 70%;
+}
+.rs-clear{
+    clear: both;
+}
+aside article{
+    background-color: #fff;
+    margin: 0 20px 20px 20px;
+    padding: 20px;
+    
+}
+.rs-shadow{
+    -webkit-box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.03);
+    -moz-box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.03);
+    -ms-box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.03);
+    -o-box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.03);
+    box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.03);
+}
+h2{
+    margin: 0; padding: 0;
+    font-size: 24px;
+    color: #212121
+}
+ul.rs-channel-list, ul.rs-channel-list li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+ul.rs-channel-list a{
+    display: block;
+    font-weight: bold;
+    text-decoration: none;
+    color: inherit;
+    padding: 2px;
+}
+ul.rs-channel-list a.rs-active{
+    color: #E54939;
+    
+}
+.rs-url-form input{
+    display: block;
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 6px 5%;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+}
+.rs-url-form button{
+    padding: 10px 0;
+    background-color: #E54939;
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+.rs-url-form ul, .rs-url-form li,.rs-content-area ul, .rs-content-area li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.rs-url-form ul{
+    margin-top: 15px
+}
+.rs-url-form li{
+    padding: 2px 0;
+}
+.rs-url-form li a{
+    font-weight: bold;   
+    text-decoration: none;
+}
+ul.rs-news-list{
+   margin: 0 20px 20px 0;
+   background: #fff;
+   padding: 20px;
+}
+ul.rs-news-list>li{
+    background-color: #efefef;
+    border-bottom: 1px solid #ccc;
+    padding: 5px 5px;
+}
+ul.rs-news-list>li>a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #222;
+}
+ul.rs-news-list>li time{
+    font-weight: normal;
+    color: #888;
+}
+.rs-news-item p{
+    padding-top: 15px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    text-decoration: underline !important;
+}
+ul.rs-news-list>li{
+    cursor: pointer;
+}
+ul.rs-news-list>li.rs-open{
+    cursor: auto;
+    background: #fff;
+}
+ul.rs-news-list p{
+    padding: 5px 0;
+}
+a.fav{
+    display: inline-block;
+    vertical-align: bottom;
+    width: 20px; height: 20px;
+    background: url('../images/not-fv.png')
+}
+a.fav:hover{
+    background: url('../images/fv.png') !important;
+}
+
+a.fav.added{
+    background: url('../images/fv.png');
+}
