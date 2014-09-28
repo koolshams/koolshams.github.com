@@ -1,0 +1,26 @@
+.navbar-toggle .icon-bar {
+    background-color: #563d7c;
+}
+.navbar-static-top {
+    background-color: #f8f8f8;
+}
+
+.navbar-static-top .nav>li.active>a{
+    text-decoration: none;
+    background-color: #eee;
+}
+
+.sm-conainter h3{
+    margin-top: 0;
+}
+.sm-conainter .form-group{
+    margin-bottom: 10px;
+}
+.sm-footer{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-top: 25px;
+    color: #777;
+    text-align: center;
+    border-top: 1px solid #e5e5e5;
+}
