@@ -79,7 +79,7 @@ $(function () {
 
 
         title: {
-            text: 'Data Heatmap Details for Oracle-Empl Virtual Device',
+            text: 'Virtual Device Data Heatmap Details for Oracle-Emp',
             align: 'left'
         },
 
@@ -124,7 +124,7 @@ $(function () {
             borderWidth: 0,
             colsize: 24 * 36e5, // one day
             tooltip: {
-                headerFormat: 'Data Access<br/>',
+                headerFormat: 'Data Access for Oracle-Emp <br/>',
                 pointFormat: '{point.x:%e %b, %Y} {point.y}:00: <b>{point.value} K</b>'
             }
         }]
