@@ -79,7 +79,7 @@ $(function () {
 
 
         title: {
-            text: 'Data Heatmap',
+            text: 'Data Heatmap Details for Oracle-Empl Virtual Device',
             align: 'left'
         },
 
