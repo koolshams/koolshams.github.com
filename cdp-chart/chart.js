@@ -1,39 +1,39 @@
 //  No copyright
 /* global jQuery, Highcharts, Handlebars, moment */
-(($) => {
+((function ($) {
   Highcharts.setOptions({
     global: {
       useUTC: false,
     },
   });
-  $(() => {
+  $(function () {
     function dataMapper(item) {
       return [item.rawtimestamp, item.datasize];
     }
 
-    const rangeTemplate = Handlebars.compile('{{min}} - {{max}}');
-    const graphRangeTemplate = Handlebars.compile('<b>Min:</b><span>{{min}}</span> <span class="pull-right"><b>Max:</b>{{max}}</span>');
+    var rangeTemplate = Handlebars.compile('{{min}} - {{max}}');
+    var graphRangeTemplate = Handlebars.compile('<b>Min: </b><span>{{min}}</span> <span class="pull-right"><b>Max:</b>{{max}}</span>');
 
     function formatDate(date) {
-      return moment(date).format('YYYY-MM-DD HH:mm:ss SSS') + ' '
-        + parseInt((date - parseInt(date, 10)) * 1000, 10);
+      return moment(date).format('YYYY-MM-DD HH:mm:ss SSS') + ' ' +
+        parseInt((date - parseInt(date, 10)) * 1000, 10);
     }
 
-    $.get('intial-data.json', (res) => {
-      const fullData = res.map(dataMapper);
-      let chart;
-      let zoomData = [];
+    $.get('intial-data.json', function(res){
+      var fullData = res.map(dataMapper);
+      var chart;
+      var zoomData = [];
 
-      $.get('zoom-data.json', (response) => {
+      $.get('zoom-data.json', function(response){
         zoomData = response.map(dataMapper);
       }, 'json');
 
-      const range = {
+      var range = {
         min: 1473049967000,
         max: 1474054044000,
       };
 
-      const zoomList = [{
+      var zoomList = [{
         title: 'Full',
       }, {
         title: '10 Minutes',
@@ -56,16 +56,15 @@
         max: formatDate(range.max),
       }));
 
-      const $selectedDate = $('.selected-point .date');
-      const $selectedZoom = $('.zoom');
-      let currentZoom = 0;
-      let selectePoint = null;
+      var $selectedDate = $('.selected-point .date');
+      var $selectedZoom = $('.zoom');
+      var currentZoom = 0;
+      var selectePoint = null;
 
       function clickHandler(evt) {
-        console.log(evt);
-        const axis = chart.xAxis[0];
+        var axis = chart.xAxis[0];
         axis.removePlotLine('marker');
-        let value;
+        var value;
         if (evt.xAxis) {
           value = evt.xAxis[0].value;
         } else if (evt.point) {
@@ -81,7 +80,7 @@
           id: 'marker',
           color: 'red',
           width: 1,
-          value,
+          value: value,
           zIndex: 5,
         });
       }
@@ -89,7 +88,7 @@
       function getSeries(data) {
         return {
           name: 'IOs',
-          data,
+          data: data,
           events: {
             click: clickHandler,
           },
@@ -98,9 +97,9 @@
         };
       }
 
-      let width = 800;
-      const diff = Math.round((range.max - range.min) / (1000 * 60 * 60 * 24));
-      const diffWidth = 500 * diff;
+      var width = 800;
+      var diff = Math.round((range.max - range.min) / (1000 * 60 * 60 * 24));
+      var diffWidth = 500 * diff;
       if (diffWidth > width) {
         width = diffWidth;
       }
@@ -118,8 +117,9 @@
         } else {
           chart.setSize(3000, 200);
           chart.xAxis[0].setExtremes(newRange.min, newRange.max);
-          const chartData = zoomData.filter(item => (item[0] >= newRange.min && item[0]
-            <= newRange.max));
+          var chartData = zoomData.filter(function(item) {
+            return item[0] >= newRange.min && item[0] <= newRange.max;
+          });
           chart.addSeries(getSeries(chartData));
         }
       }
@@ -138,10 +138,10 @@
           currentZoom = 0;
         }
 
-        const zoom = zoomList[currentZoom];
+        var zoom = zoomList[currentZoom];
         $selectedZoom.text(zoom.title);
 
-        let newRange = {};
+        var newRange = {};
         if (currentZoom === 0) {
           newRange = $.extend(newRange, range);
         } else if (currentZoom === 1) {
@@ -150,7 +150,7 @@
             max: parseInt(selectePoint + (zoom.range / 2), 10),
           };
         } else {
-          const start = selectePoint - (selectePoint % zoom.range);
+          var start = selectePoint - (selectePoint % zoom.range);
           newRange = {
             min: start,
             max: start + zoom.range,
@@ -173,11 +173,11 @@
         drawChart(newRange);
       }
 
-      $('button.plus').on('click', () => {
+      $('button.plus').on('click', function() {
         changeZoom(1);
       });
 
-      $('button.minus').on('click', () => {
+      $('button.minus').on('click', function(){
         changeZoom(-1);
       });
 
@@ -185,7 +185,7 @@
         chart: {
           type: 'column',
           renderTo: $('#chart')[0],
-          width,
+          width: width,
           height: 200,
           events: {
             click: clickHandler,
@@ -220,4 +220,4 @@
       });
     }, 'json');
   });
-})(jQuery);
+})(jQuery));
