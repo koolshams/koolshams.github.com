@@ -1,6 +1,11 @@
 //  No copyright
 /* global jQuery, Highcharts, Handlebars, moment */
 (($) => {
+  Highcharts.setOptions({
+    global: {
+      useUTC: false,
+    },
+  });
   $(() => {
     function dataMapper(item) {
       return [item.rawtimestamp, item.datasize];
