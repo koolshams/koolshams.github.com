@@ -1,14 +1,43 @@
 //  No copyright
 /* global jQuery, Highcharts, Handlebars, moment */
 ((function ($) {
+  'use strict';
+
   Highcharts.setOptions({
     global: {
       useUTC: false,
     },
   });
+
+  var values = ['0', '< 1K', '< 100K', '< 1M', '< 100M', '> 100M'];
+
+  function getValue (value) {
+    if (value < 1024) {
+      return 1;
+    }
+
+    if (value < 1024 * 100) {
+      return 2;
+    }
+
+    if (value < 1024 * 1024) {
+      return 3;
+    }
+
+    if (value < 1024 * 1024 * 100) {
+      return 4;
+    }
+
+    return 5;
+  }
+
   $(function () {
+    function dataMapperSecond(item) {
+      return [item.rawtimestamp * 1000, getValue(item.datasize)];
+    }
+
     function dataMapper(item) {
-      return [item.rawtimestamp, item.datasize];
+      return [item.rawtimestamp - 100000000, getValue(item.datasize)];
     }
 
     var rangeTemplate = Handlebars.compile('{{min}} - {{max}}');
@@ -20,7 +49,7 @@
     }
 
     $.get('intial-data.json', function(res){
-      var fullData = res.map(dataMapper);
+      var fullData = res.map(dataMapperSecond);
       var chart;
       var zoomData = [];
 
@@ -29,8 +58,8 @@
       }, 'json');
 
       var range = {
-        min: 1473049967000,
-        max: 1474054044000,
+        min: 1471533282000,
+        max: 1474404238000,
       };
 
       var zoomList = [{
@@ -74,6 +103,7 @@
         }
 
         selectePoint = value;
+        console.log(value);
         $selectedDate.text(formatDate(value));
 
         axis.addPlotLine({
@@ -117,6 +147,7 @@
         } else {
           chart.setSize(3000, 200);
           chart.xAxis[0].setExtremes(newRange.min, newRange.max);
+          console.log(newRange.min + ' - ' + newRange.max);
           var chartData = zoomData.filter(function(item) {
             return item[0] >= newRange.min && item[0] <= newRange.max;
           });
@@ -194,6 +225,14 @@
         title: {
           text: '',
         },
+        tooltip: {
+          enabled: true,
+          formatter: function() {
+            var d = new Date(this.x);
+            return '<b>' + this.series.name +'</b><br/>' + Highcharts.dateFormat('%Y-%m-%d %H:%M:%S ', d) +
+              d.getMilliseconds() + ': ' + values[this.y];
+          }
+        },
         credits: {
           enabled: false,
         },
@@ -212,9 +251,6 @@
           labels: {
             enabled: false,
           },
-        },
-        tooltip: {
-          enable: true,
         },
         series: [getSeries(fullData)],
       });

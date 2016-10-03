@@ -1,13 +1,2320 @@
 [{
-  "rawtimestamp": 1473949967000,
-  "datasize": 124380160
+  "rawtimestamp": 1471533283,
+  "datasize": 1187840
 }, {
-  "rawtimestamp": 1473950098000,
-  "datasize": 1024786432
+  "rawtimestamp": 1471533299,
+  "datasize": 131072
 }, {
-  "rawtimestamp": 1473953680000,
-  "datasize": 512200704
+  "rawtimestamp": 1471533300,
+  "datasize": 1150976
 }, {
-  "rawtimestamp": 1473954044000,
-  "datasize": 260677632
+  "rawtimestamp": 1471533315,
+  "datasize": 880640
+}, {
+  "rawtimestamp": 1471533326,
+  "datasize": 962560
+}, {
+  "rawtimestamp": 1471533339,
+  "datasize": 880640
+}, {
+  "rawtimestamp": 1471533349,
+  "datasize": 1142784
+}, {
+  "rawtimestamp": 1471533363,
+  "datasize": 1253376
+}, {
+  "rawtimestamp": 1471533379,
+  "datasize": 1306624
+}, {
+  "rawtimestamp": 1471533395,
+  "datasize": 1196032
+}, {
+  "rawtimestamp": 1471533411,
+  "datasize": 798720
+}, {
+  "rawtimestamp": 1471533422,
+  "datasize": 897024
+}, {
+  "rawtimestamp": 1471533432,
+  "datasize": 1216512
+}, {
+  "rawtimestamp": 1471533443,
+  "datasize": 19849216
+}, {
+  "rawtimestamp": 1471533453,
+  "datasize": 30646272
+}, {
+  "rawtimestamp": 1471533463,
+  "datasize": 31744000
+}, {
+  "rawtimestamp": 1471533473,
+  "datasize": 15077376
+}, {
+  "rawtimestamp": 1471533483,
+  "datasize": 917504
+}, {
+  "rawtimestamp": 1471533494,
+  "datasize": 1036288
+}, {
+  "rawtimestamp": 1471533507,
+  "datasize": 1208320
+}, {
+  "rawtimestamp": 1471533523,
+  "datasize": 839680
+}, {
+  "rawtimestamp": 1471533533,
+  "datasize": 929792
+}, {
+  "rawtimestamp": 1471533544,
+  "datasize": 884736
+}, {
+  "rawtimestamp": 1471533555,
+  "datasize": 847872
+}, {
+  "rawtimestamp": 1471533566,
+  "datasize": 1007616
+}, {
+  "rawtimestamp": 1471533579,
+  "datasize": 884736
+}, {
+  "rawtimestamp": 1471533589,
+  "datasize": 1101824
+}, {
+  "rawtimestamp": 1471533603,
+  "datasize": 876544
+}, {
+  "rawtimestamp": 1471533614,
+  "datasize": 913408
+}, {
+  "rawtimestamp": 1471533627,
+  "datasize": 897024
+}, {
+  "rawtimestamp": 1471533637,
+  "datasize": 1064960
+}, {
+  "rawtimestamp": 1471533651,
+  "datasize": 937984
+}, {
+  "rawtimestamp": 1471533662,
+  "datasize": 1052672
+}, {
+  "rawtimestamp": 1471533675,
+  "datasize": 888832
+}, {
+  "rawtimestamp": 1471533687,
+  "datasize": 1290240
+}, {
+  "rawtimestamp": 1471533699,
+  "datasize": 897024
+}, {
+  "rawtimestamp": 1471533710,
+  "datasize": 1069056
+}, {
+  "rawtimestamp": 1471533723,
+  "datasize": 1323008
+}, {
+  "rawtimestamp": 1471533739,
+  "datasize": 1191936
+}, {
+  "rawtimestamp": 1471533755,
+  "datasize": 856064
+}, {
+  "rawtimestamp": 1471533766,
+  "datasize": 827392
+}, {
+  "rawtimestamp": 1471533777,
+  "datasize": 897024
+}, {
+  "rawtimestamp": 1471533787,
+  "datasize": 892928
+}, {
+  "rawtimestamp": 1471533798,
+  "datasize": 815104
+}, {
+  "rawtimestamp": 1471533808,
+  "datasize": 921600
+}, {
+  "rawtimestamp": 1471533819,
+  "datasize": 1257472
+}, {
+  "rawtimestamp": 1471533835,
+  "datasize": 1290240
+}, {
+  "rawtimestamp": 1471533851,
+  "datasize": 798720
+}, {
+  "rawtimestamp": 1471533863,
+  "datasize": 917504
+}, {
+  "rawtimestamp": 1471533873,
+  "datasize": 839680
+}, {
+  "rawtimestamp": 1471533883,
+  "datasize": 884736
+}, {
+  "rawtimestamp": 1471533894,
+  "datasize": 757760
+}, {
+  "rawtimestamp": 1471533904,
+  "datasize": 1019904
+}, {
+  "rawtimestamp": 1471533916,
+  "datasize": 978944
+}, {
+  "rawtimestamp": 1471533927,
+  "datasize": 6774784
+}, {
+  "rawtimestamp": 1471533940,
+  "datasize": 38428672
+}, {
+  "rawtimestamp": 1471533950,
+  "datasize": 28803072
+}, {
+  "rawtimestamp": 1471533960,
+  "datasize": 27344896
+}, {
+  "rawtimestamp": 1471533970,
+  "datasize": 970752
+}, {
+  "rawtimestamp": 1471533981,
+  "datasize": 1089536
+}, {
+  "rawtimestamp": 1471533996,
+  "datasize": 872448
+}, {
+  "rawtimestamp": 1471534006,
+  "datasize": 1081344
+}, {
+  "rawtimestamp": 1471534020,
+  "datasize": 1331200
+}, {
+  "rawtimestamp": 1471534036,
+  "datasize": 1257472
+}, {
+  "rawtimestamp": 1471534052,
+  "datasize": 798720
+}, {
+  "rawtimestamp": 1471534062,
+  "datasize": 811008
+}, {
+  "rawtimestamp": 1471534073,
+  "datasize": 921600
+}, {
+  "rawtimestamp": 1471534084,
+  "datasize": 860160
+}, {
+  "rawtimestamp": 1471534095,
+  "datasize": 925696
+}, {
+  "rawtimestamp": 1471534105,
+  "datasize": 847872
+}, {
+  "rawtimestamp": 1471534116,
+  "datasize": 843776
+}, {
+  "rawtimestamp": 1471534126,
+  "datasize": 884736
+}, {
+  "rawtimestamp": 1471534137,
+  "datasize": 909312
+}, {
+  "rawtimestamp": 1471534148,
+  "datasize": 864256
+}, {
+  "rawtimestamp": 1471534159,
+  "datasize": 835584
+}, {
+  "rawtimestamp": 1471534170,
+  "datasize": 847872
+}, {
+  "rawtimestamp": 1471534180,
+  "datasize": 856064
+}, {
+  "rawtimestamp": 1471534190,
+  "datasize": 917504
+}, {
+  "rawtimestamp": 1471534201,
+  "datasize": 1175552
+}, {
+  "rawtimestamp": 1471534212,
+  "datasize": 1183744
+}, {
+  "rawtimestamp": 1471534228,
+  "datasize": 1167360
+}, {
+  "rawtimestamp": 1471534244,
+  "datasize": 864256
+}, {
+  "rawtimestamp": 1471534254,
+  "datasize": 917504
+}, {
+  "rawtimestamp": 1471534265,
+  "datasize": 897024
+}, {
+  "rawtimestamp": 1471534276,
+  "datasize": 843776
+}, {
+  "rawtimestamp": 1471534287,
+  "datasize": 978944
+}, {
+  "rawtimestamp": 1471534300,
+  "datasize": 929792
+}, {
+  "rawtimestamp": 1471534310,
+  "datasize": 983040
+}, {
+  "rawtimestamp": 1471534324,
+  "datasize": 901120
+}, {
+  "rawtimestamp": 1471534335,
+  "datasize": 1110016
+}, {
+  "rawtimestamp": 1471534348,
+  "datasize": 909312
+}, {
+  "rawtimestamp": 1471534359,
+  "datasize": 937984
+}, {
+  "rawtimestamp": 1471534372,
+  "datasize": 884736
+}, {
+  "rawtimestamp": 1471534382,
+  "datasize": 1134592
+}, {
+  "rawtimestamp": 1471534396,
+  "datasize": 1257472
+}, {
+  "rawtimestamp": 1471534412,
+  "datasize": 1204224
+}, {
+  "rawtimestamp": 1471534428,
+  "datasize": 43790336
+}, {
+  "rawtimestamp": 1471534438,
+  "datasize": 29528064
+}, {
+  "rawtimestamp": 1471534450,
+  "datasize": 25092096
+}, {
+  "rawtimestamp": 1471534460,
+  "datasize": 1314816
+}, {
+  "rawtimestamp": 1471534476,
+  "datasize": 856064
+}, {
+  "rawtimestamp": 1471534487,
+  "datasize": 909312
+}, {
+  "rawtimestamp": 1471534498,
+  "datasize": 827392
+}, {
+  "rawtimestamp": 1471534508,
+  "datasize": 909312
+}, {
+  "rawtimestamp": 1471534519,
+  "datasize": 884736
+}, {
+  "rawtimestamp": 1471534529,
+  "datasize": 937984
+}, {
+  "rawtimestamp": 1471534540,
+  "datasize": 1359872
+}, {
+  "rawtimestamp": 1471534556,
+  "datasize": 856064
+}, {
+  "rawtimestamp": 1471534567,
+  "datasize": 917504
+}, {
+  "rawtimestamp": 1471534578,
+  "datasize": 892928
+}, {
+  "rawtimestamp": 1471534588,
+  "datasize": 888832
+}, {
+  "rawtimestamp": 1471534599,
+  "datasize": 811008
+}, {
+  "rawtimestamp": 1471534609,
+  "datasize": 913408
+}, {
+  "rawtimestamp": 1471534620,
+  "datasize": 794624
+}, {
+  "rawtimestamp": 1471534631,
+  "datasize": 978944
+}, {
+  "rawtimestamp": 1471534642,
+  "datasize": 827392
+}, {
+  "rawtimestamp": 1471534652,
+  "datasize": 843776
+}, {
+  "rawtimestamp": 1471534663,
+  "datasize": 1052672
+}, {
+  "rawtimestamp": 1471534676,
+  "datasize": 909312
+}, {
+  "rawtimestamp": 1471534687,
+  "datasize": 1036288
+}, {
+  "rawtimestamp": 1471534700,
+  "datasize": 876544
+}, {
+  "rawtimestamp": 1471534711,
+  "datasize": 1396736
+}, {
+  "rawtimestamp": 1471534724,
+  "datasize": 1171456
+}, {
+  "rawtimestamp": 1471534740,
+  "datasize": 1282048
+}, {
+  "rawtimestamp": 1471534756,
+  "datasize": 1257472
+}, {
+  "rawtimestamp": 1471534772,
+  "datasize": 901120
+}, {
+  "rawtimestamp": 1471534784,
+  "datasize": 1032192
+}, {
+  "rawtimestamp": 1471534797,
+  "datasize": 868352
+}, {
+  "rawtimestamp": 1471534807,
+  "datasize": 839680
+}, {
+  "rawtimestamp": 1471534818,
+  "datasize": 864256
+}, {
+  "rawtimestamp": 1471534828,
+  "datasize": 847872
+}, {
+  "rawtimestamp": 1471534840,
+  "datasize": 1060864
+}, {
+  "rawtimestamp": 1471534852,
+  "datasize": 864256
+}, {
+  "rawtimestamp": 1471534863,
+  "datasize": 835584
+}, {
+  "rawtimestamp": 1471534874,
+  "datasize": 888832
+}, {
+  "rawtimestamp": 1471534885,
+  "datasize": 897024
+}, {
+  "rawtimestamp": 1471534895,
+  "datasize": 815104
+}, {
+  "rawtimestamp": 1471534905,
+  "datasize": 946176
+}, {
+  "rawtimestamp": 1471534917,
+  "datasize": 38526976
+}, {
+  "rawtimestamp": 1471534927,
+  "datasize": 23883776
+}, {
+  "rawtimestamp": 1471534937,
+  "datasize": 32174080
+}, {
+  "rawtimestamp": 1471534947,
+  "datasize": 4378624
+}, {
+  "rawtimestamp": 1471534957,
+  "datasize": 892928
+}, {
+  "rawtimestamp": 1471534968,
+  "datasize": 1282048
+}, {
+  "rawtimestamp": 1471534981,
+  "datasize": 843776
+}, {
+  "rawtimestamp": 1471534991,
+  "datasize": 913408
+}, {
+  "rawtimestamp": 1471535002,
+  "datasize": 901120
+}, {
+  "rawtimestamp": 1471535013,
+  "datasize": 876544
+}, {
+  "rawtimestamp": 1471535024,
+  "datasize": 1028096
+}, {
+  "rawtimestamp": 1471535037,
+  "datasize": 831488
+}, {
+  "rawtimestamp": 1471535047,
+  "datasize": 1024000
+}, {
+  "rawtimestamp": 1471535061,
+  "datasize": 888832
+}, {
+  "rawtimestamp": 1471535072,
+  "datasize": 1126400
+}, {
+  "rawtimestamp": 1471535085,
+  "datasize": 888832
+}, {
+  "rawtimestamp": 1471535096,
+  "datasize": 970752
+}, {
+  "rawtimestamp": 1471535109,
+  "datasize": 884736
+}, {
+  "rawtimestamp": 1471535119,
+  "datasize": 1114112
+}, {
+  "rawtimestamp": 1471535133,
+  "datasize": 917504
+}, {
+  "rawtimestamp": 1471535144,
+  "datasize": 995328
+}, {
+  "rawtimestamp": 1471535157,
+  "datasize": 835584
+}, {
+  "rawtimestamp": 1471535167,
+  "datasize": 1056768
+}, {
+  "rawtimestamp": 1471535181,
+  "datasize": 856064
+}, {
+  "rawtimestamp": 1471535191,
+  "datasize": 876544
+}, {
+  "rawtimestamp": 1471535202,
+  "datasize": 913408
+}, {
+  "rawtimestamp": 1471535213,
+  "datasize": 839680
+}, {
+  "rawtimestamp": 1471535224,
+  "datasize": 1146880
+}, {
+  "rawtimestamp": 1471535235,
+  "datasize": 954368
+}, {
+  "rawtimestamp": 1471535246,
+  "datasize": 1167360
+}, {
+  "rawtimestamp": 1471535261,
+  "datasize": 888832
+}, {
+  "rawtimestamp": 1471535272,
+  "datasize": 745472
+}, {
+  "rawtimestamp": 1471535282,
+  "datasize": 913408
+}, {
+  "rawtimestamp": 1471535293,
+  "datasize": 1298432
+}, {
+  "rawtimestamp": 1471535309,
+  "datasize": 794624
+}, {
+  "rawtimestamp": 1471535320,
+  "datasize": 909312
+}, {
+  "rawtimestamp": 1471535331,
+  "datasize": 905216
+}, {
+  "rawtimestamp": 1471535341,
+  "datasize": 774144
+}, {
+  "rawtimestamp": 1471535351,
+  "datasize": 925696
+}, {
+  "rawtimestamp": 1471535362,
+  "datasize": 909312
+}, {
+  "rawtimestamp": 1471535373,
+  "datasize": 1261568
+}, {
+  "rawtimestamp": 1471535389,
+  "datasize": 1273856
+}, {
+  "rawtimestamp": 1471535405,
+  "datasize": 30961664
+}, {
+  "rawtimestamp": 1471535415,
+  "datasize": 30756864
+}, {
+  "rawtimestamp": 1471535425,
+  "datasize": 25919488
+}, {
+  "rawtimestamp": 1471535436,
+  "datasize": 5582848
+}, {
+  "rawtimestamp": 1471535447,
+  "datasize": 1208320
+}, {
+  "rawtimestamp": 1471535461,
+  "datasize": 1204224
+}, {
+  "rawtimestamp": 1471535477,
+  "datasize": 179814400
+}, {
+  "rawtimestamp": 1471536900,
+  "datasize": 339292160
+}, {
+  "rawtimestamp": 1471540500,
+  "datasize": 313950208
+}, {
+  "rawtimestamp": 1471544100,
+  "datasize": 330575872
+}, {
+  "rawtimestamp": 1471547700,
+  "datasize": 325726208
+}, {
+  "rawtimestamp": 1471551300,
+  "datasize": 263645184
+}, {
+  "rawtimestamp": 1471554261,
+  "datasize": 311040000
+}, {
+  "rawtimestamp": 1471557827,
+  "datasize": 386385920
+}, {
+  "rawtimestamp": 1471562100,
+  "datasize": 343691264
+}, {
+  "rawtimestamp": 1471565700,
+  "datasize": 332664832
+}, {
+  "rawtimestamp": 1471569300,
+  "datasize": 321241088
+}, {
+  "rawtimestamp": 1471572900,
+  "datasize": 342687744
+}, {
+  "rawtimestamp": 1471576500,
+  "datasize": 331214848
+}, {
+  "rawtimestamp": 1471580100,
+  "datasize": 319873024
+}, {
+  "rawtimestamp": 1471583700,
+  "datasize": 341618688
+}, {
+  "rawtimestamp": 1471587300,
+  "datasize": 331104256
+}, {
+  "rawtimestamp": 1471590900,
+  "datasize": 320798720
+}, {
+  "rawtimestamp": 1471594500,
+  "datasize": 340135936
+}, {
+  "rawtimestamp": 1471598100,
+  "datasize": 328556544
+}, {
+  "rawtimestamp": 1471601700,
+  "datasize": 327286784
+}, {
+  "rawtimestamp": 1471605300,
+  "datasize": 338939904
+}, {
+  "rawtimestamp": 1471608900,
+  "datasize": 327184384
+}, {
+  "rawtimestamp": 1471612500,
+  "datasize": 309956608
+}, {
+  "rawtimestamp": 1471616100,
+  "datasize": 332238848
+}, {
+  "rawtimestamp": 1471619700,
+  "datasize": 326578176
+}, {
+  "rawtimestamp": 1471623300,
+  "datasize": 315568128
+}, {
+  "rawtimestamp": 1471626900,
+  "datasize": 335958016
+}, {
+  "rawtimestamp": 1471630500,
+  "datasize": 324657152
+}, {
+  "rawtimestamp": 1471634100,
+  "datasize": 313290752
+}, {
+  "rawtimestamp": 1471637700,
+  "datasize": 335228928
+}, {
+  "rawtimestamp": 1471641300,
+  "datasize": 323080192
+}, {
+  "rawtimestamp": 1471644900,
+  "datasize": 312614912
+}, {
+  "rawtimestamp": 1471648500,
+  "datasize": 333795328
+}, {
+  "rawtimestamp": 1471652100,
+  "datasize": 322138112
+}, {
+  "rawtimestamp": 1471655700,
+  "datasize": 343261184
+}, {
+  "rawtimestamp": 1471659300,
+  "datasize": 332132352
+}, {
+  "rawtimestamp": 1471662900,
+  "datasize": 320696320
+}, {
+  "rawtimestamp": 1471666500,
+  "datasize": 343687168
+}, {
+  "rawtimestamp": 1471670100,
+  "datasize": 330510336
+}, {
+  "rawtimestamp": 1471673700,
+  "datasize": 286466048
+}, {
+  "rawtimestamp": 1471677300,
+  "datasize": 344502272
+}, {
+  "rawtimestamp": 1471680900,
+  "datasize": 356188160
+}, {
+  "rawtimestamp": 1471684500,
+  "datasize": 273166336
+}, {
+  "rawtimestamp": 1471688100,
+  "datasize": 47992832
+}, {
+  "rawtimestamp": 1471691700,
+  "datasize": 36630528
+}, {
+  "rawtimestamp": 1471695300,
+  "datasize": 26120192
+}, {
+  "rawtimestamp": 1471698900,
+  "datasize": 19902464
+}, {
+  "rawtimestamp": 1471702500,
+  "datasize": 2552832
+}, {
+  "rawtimestamp": 1471706100,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471709700,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471713300,
+  "datasize": 2068480
+}, {
+  "rawtimestamp": 1471716900,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471720500,
+  "datasize": 2093056
+}, {
+  "rawtimestamp": 1471724100,
+  "datasize": 2072576
+}, {
+  "rawtimestamp": 1471727700,
+  "datasize": 2076672
+}, {
+  "rawtimestamp": 1471731300,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471734900,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471738500,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471742100,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471745700,
+  "datasize": 2076672
+}, {
+  "rawtimestamp": 1471749300,
+  "datasize": 2379776
+}, {
+  "rawtimestamp": 1471752900,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471756500,
+  "datasize": 2093056
+}, {
+  "rawtimestamp": 1471760100,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471763700,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471767300,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471770900,
+  "datasize": 2072576
+}, {
+  "rawtimestamp": 1471774500,
+  "datasize": 2093056
+}, {
+  "rawtimestamp": 1471778100,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471781700,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471785300,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471788900,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471792500,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471796100,
+  "datasize": 2093056
+}, {
+  "rawtimestamp": 1471799700,
+  "datasize": 2076672
+}, {
+  "rawtimestamp": 1471803300,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471806900,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471810500,
+  "datasize": 2072576
+}, {
+  "rawtimestamp": 1471814100,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471817700,
+  "datasize": 2072576
+}, {
+  "rawtimestamp": 1471821300,
+  "datasize": 2097152
+}, {
+  "rawtimestamp": 1471824900,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471828500,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471832100,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471835700,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471839300,
+  "datasize": 2076672
+}, {
+  "rawtimestamp": 1471842900,
+  "datasize": 2097152
+}, {
+  "rawtimestamp": 1471846500,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471850100,
+  "datasize": 2076672
+}, {
+  "rawtimestamp": 1471853700,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471857300,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471860900,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471864500,
+  "datasize": 2088960
+}, {
+  "rawtimestamp": 1471868100,
+  "datasize": 2080768
+}, {
+  "rawtimestamp": 1471871700,
+  "datasize": 2093056
+}, {
+  "rawtimestamp": 1471875300,
+  "datasize": 2084864
+}, {
+  "rawtimestamp": 1471878900,
+  "datasize": 1802240
+}, {
+  "rawtimestamp": 1471882500,
+  "datasize": 458752
+}, {
+  "rawtimestamp": 1471886100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471889700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471893300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471896900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471904100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471907700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471911300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471914900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471918500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471922100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471925700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471929300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471932900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471936500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471940100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471943700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471947300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471950900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471954500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471958100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471961700,
+  "datasize": 90112
+}, {
+  "rawtimestamp": 1471965300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471968900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471972500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471976100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471979700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471983300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471986900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471990500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471994100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1471997700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472001300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472004900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472008500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472012100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472015700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472019300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472022900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472026500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472030100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472033700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472037300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472040900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472044500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472048100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472051700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472055300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472058900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472066100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472069700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472073300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472076900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472080500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472084100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472087700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472091300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472094900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472098500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472102100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472105700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472109300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472116500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472120100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472123700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472127300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472130900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472134500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472138100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472141700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472145300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472148900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472152500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472156100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472159700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472163300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472166900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472170500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472174100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472177700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472181300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472184900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472188500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472192100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472195700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472199300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472202900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472206500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472210100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472213700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472217300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472220900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472224500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472228100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472231700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472235300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472238900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472246102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472249702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472253302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472256902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472260502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472264102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472267702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472271302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472274902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472278502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472282102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472285702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472289302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472292902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472296502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472300102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472303702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472307302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472310902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472314502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472318102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472321702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472325301,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472328902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472332502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472336102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472339702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472343302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472346902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472350502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472354102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472357702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472361302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472364902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472368502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472372102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472375702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472379302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472382902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472386502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472390102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472393701,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472397302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472400902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472404502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472408102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472411702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472415302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472418902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472422502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472426102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472429702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472433302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472436902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472440502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472444102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472447702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472451302,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472454902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472458502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472462102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472465702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472469301,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472472902,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472476502,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472480102,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472483702,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472487300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472490900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472494500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472501700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472505300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472508900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472512500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472516100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472519700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472523300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472526900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472530500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472534100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472537700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472541300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472544900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472548501,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472552100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472555700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472559300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472562900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472566500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472570100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472573700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472577300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472580900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472584500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472588100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472591701,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472595300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472598900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472602500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472606100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472609700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472613300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472616900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472620500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472624100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472627700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472631300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472634900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472638500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472642100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472645700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472649300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472652900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472656500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472660100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472663700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472667300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472670900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472674500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472678100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472681700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472685300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472688900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472692500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472696100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472699700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472703300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472706900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472710500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472714100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472717700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472721300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472724900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472728500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472732100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472735700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472739300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472742900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472746500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472750101,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472753700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472757300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472760900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472764500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472768100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472771700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472775300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472778900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472782500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472786100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472789700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472793300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472796900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472800500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472804100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472807700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472811300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472814900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472818500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472822100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472825700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472829300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472832901,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472836500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472840100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472843700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472847300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472850900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472854500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472858100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472861701,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472865300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472868900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472872500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472876100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472879700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472883300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472886900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472890500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472894100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472897701,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472901300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472904900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472908501,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472912100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472915700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472919300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472922900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472926500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472930100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472933700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472937300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472940900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472944500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472948100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472951700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472955300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472958900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472962500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472966100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472969700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472973300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472976901,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472980500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472984100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472987700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472991300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472994901,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1472998501,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473002100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473005700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473009301,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473012900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473016500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473020100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473023700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473027300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473030900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473034500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473038100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473041701,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473045300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473048901,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473052500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473056100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473059700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473063300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473066901,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473070500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473074100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473077700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473081300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473084900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473088501,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473092101,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473095700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473099301,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473102900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473106500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473110100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473113701,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473117300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473120900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473124500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473128100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473131700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473135301,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473138900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473142500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473146100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473149700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473153301,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473156900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473160500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473164101,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473167700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473171300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473174900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473178500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473182100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473185700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473189300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473192900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473196500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473200100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473203700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473207300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473210900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473214500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473218100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473221700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473225300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473228900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473232500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473236100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473239700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473243300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473246900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473250500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473254100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473257700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473261300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473264900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473268500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473272100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473275700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473279300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473282900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473286500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473290100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473293700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473297300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473300900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473304500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473308100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473311700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473315300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473322500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473329700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473333300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473336900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473340500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473344100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473347702,
+  "datasize": 94208
+}, {
+  "rawtimestamp": 1473354900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473358500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473362100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473365700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473369300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473372900,
+  "datasize": 94208
+}, {
+  "rawtimestamp": 1473376500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473380100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473383700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473387300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473390900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473394500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473398100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473401700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473405300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473408900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473412500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473416100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473419700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473423300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473426900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473430500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473437700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473441300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473444900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473448500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473452100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473455700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473459300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473462900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473466500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473470100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473473700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473477300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473480900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473484500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473488100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473491700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473502500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473506100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473509700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473513300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473516900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473520500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473524100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473527700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473531300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473534900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473538500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473542100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473545700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473549300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473552900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473560100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473563700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473567300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473570900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473574500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473578100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473581700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473585300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473592500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473596100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473599700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473603300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473610500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473614100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473617700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473621300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473624900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473628500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473632100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473635700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473639300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473646500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473650100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473653700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473657300,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473660900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473664500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473668100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473671700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473678900,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473682500,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473686100,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473689700,
+  "datasize": 65536
+}, {
+  "rawtimestamp": 1473693300,
+  "datasize": 94208
+}, {
+  "rawtimestamp": 1474404187,
+  "datasize": 94208
+}, {
+  "rawtimestamp": 1474404237,
+  "datasize": 65536
 }]
