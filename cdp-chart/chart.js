@@ -48,6 +48,8 @@
         parseInt((date - parseInt(date, 10)) * 1000, 10);
     }
 
+    var chartDiv = $('#chart');
+
     $.get('intial-data.json', function(res){
       var fullData = res.map(dataMapperSecond);
       var chart;
@@ -103,7 +105,6 @@
         }
 
         selectePoint = value;
-        console.log(value);
         $selectedDate.text(formatDate(value));
 
         axis.addPlotLine({
@@ -119,6 +120,7 @@
         return {
           name: 'IOs',
           data: data,
+          maxPointWidth: 5,
           events: {
             click: clickHandler,
           },
@@ -147,12 +149,30 @@
         } else {
           chart.setSize(3000, 200);
           chart.xAxis[0].setExtremes(newRange.min, newRange.max);
-          console.log(newRange.min + ' - ' + newRange.max);
           var chartData = zoomData.filter(function(item) {
             return item[0] >= newRange.min && item[0] <= newRange.max;
           });
           chart.addSeries(getSeries(chartData));
         }
+
+        setTimeout(function() {
+          if (!selectePoint) {
+             chartDiv.scrollLeft(0);
+          }
+
+          var extremes = chart.xAxis[0].getExtremes();
+          var diff = selectePoint - extremes.min;
+          if (diff <= 0) {
+            chartDiv.scrollLeft(0);
+          }
+
+          var left = (chartDiv.find('div').width() * diff / (extremes.max - extremes.min)) - 300;
+          if (left  <= 0) {
+            chartDiv.scrollLeft(0);
+          }
+
+          chartDiv.scrollLeft(left);
+        }, 200);
       }
 
       function changeZoom(timeDiff) {
@@ -243,6 +263,37 @@
           type: 'datetime',
           min: range.min,
           max: range.max,
+          tickPositioner: function() {
+            if (currentZoom !== 3) {
+              return null;
+            }
+            var positions = [];
+            var min = this.min;
+            var max = this.max;
+            var tiks = (max - min) / 20;
+            for(var i = 0; i < 20; i++) {
+              positions.push(min + (tiks * i));
+            }
+            return positions;
+          },
+          labels: {
+            formatter: function() {
+              if (currentZoom === 0 || currentZoom === 1) {
+                return Highcharts.dateFormat(this.dateTimeLabelFormat, this.value);
+              } else {
+                var d = new Date(this.value);
+                if (currentZoom === 2) {
+                  if (this.isLast && d.getMilliseconds() === 0) {
+                    return 1000;
+                  }
+
+                  return d.getMilliseconds();
+                }
+
+                return parseInt((this.value - parseInt(this.value)) * 1000);
+              }
+            }
+          }
         },
         yAxis: {
           title: {
